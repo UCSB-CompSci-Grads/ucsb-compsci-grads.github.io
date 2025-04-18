@@ -1,6 +1,6 @@
-site_name: UCSB CS department guide
+site_name: UCSB CS Department Guide
 theme:
   name: readthedocs
 docs_dir: ./wiki
-repo_url: https://github.com/maybe-hello-world/ucsbcs
+repo_url: https://github.com/UCSB-CompSci-Grads/ucsb-compsci-grads.github.io
 edit_uri: edit/main/wiki/
