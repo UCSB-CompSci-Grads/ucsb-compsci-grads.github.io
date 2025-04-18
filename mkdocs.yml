@@ -1,0 +1,6 @@
+site_name: UCSB CS department guide
+theme:
+  name: readthedocs
+docs_dir: ./wiki
+repo_url: https://github.com/maybe-hello-world/ucsbcs
+edit_uri: edit/master/wiki/
