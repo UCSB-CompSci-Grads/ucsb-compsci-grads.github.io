@@ -11,6 +11,8 @@ Early December - next year San Clemente Housing applications deadline
 
 ## Spring
 Early April - Taxes
+
+
 Mid-April - Yearly Evaluations for PhD
 
 
