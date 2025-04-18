@@ -1,5 +1,6 @@
 # UCSB CS Department Wiki
 
-Beep beep boop beep initial commit
+This website is a student-run website. Any advice is given by students and is not university-affiliated.
 
 - [FAQ](faq.md): Frequently asked questions about the UCSB CS department.
+- [Grad Student Onboarding](onboarding.md): Information for new graduate students.
