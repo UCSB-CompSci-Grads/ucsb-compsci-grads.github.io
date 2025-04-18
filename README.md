@@ -1,4 +1,4 @@
-# UCSB CS department wiki
+# UCSB CS Department Wiki
 
 ### What is this?
 This is a wiki for the UCSB CS department. It contains useful information for grad students.
