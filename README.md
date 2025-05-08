@@ -4,7 +4,7 @@
 This is a wiki for the UCSB CS department. It contains useful information for grad students.
 
 ### How to modify this wiki
-Modify markdown files in the `wiki` directory. 
+Modify markdown files in the `wiki` directory. GitHub Actions will automatically rebuild and publish after any changes introduced in `main` branch.
 
 ### Contribution guide
 - Our main goal is to make introducing changes as simple as possible to motivate everyone to do it.
