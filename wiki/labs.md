@@ -13,7 +13,7 @@ Attention: Work In Progress. If you don't see your lab here, create a PR and add
 - Four Eyes Lab - [https://ilab.cs.ucsb.edu/](https://ilab.cs.ucsb.edu/) - Lingqi Yan, Tobias Höllerer
 - UCSB GameLab - [https://www.cdgr.ucsb.edu/database/organization/1927](https://www.cdgr.ucsb.edu/database/organization/1927) - Richert Wang
 - Human-AI Experience (HAX) Lab - [https://sites.cs.ucsb.edu/~sra/](https://sites.cs.ucsb.edu/~sra/) - Misha Sra
-- MOMENTLab - [https://moment.cs.ucsb.edu/](https://moment.cs.ucsb.edu/) - Elizabent M. Belding
+- MOMENTLab - [https://moment.cs.ucsb.edu/](https://moment.cs.ucsb.edu/) - Elizabeth M. Belding
 - Natural Language Processing Group - [http://nlp.cs.ucsb.edu/](http://nlp.cs.ucsb.edu/) - William Wang
 - Programming Languages (PL) Lab - [https://hardekbc.github.io/](https://hardekbc.github.io/) - Ben Hardekopf
 - Lab for Research in Adaptive Computing Environments (RACELab) - [https://sites.cs.ucsb.edu/~ckrintz/racelab.html](https://sites.cs.ucsb.edu/~ckrintz/racelab.html) - Chandra Krintz, Rich Wolski
