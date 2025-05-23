@@ -1,9 +1,12 @@
-# Community-based list of UCSB CS labs
+# Community-based list of UCSB CS labs and research centers
 
 Attention: Work In Progress. If you don't see your lab here, create a PR and add it! ^_^ 
 
 - Architecture Lab (ArchLab) - [https://www.arch.cs.ucsb.edu/](https://www.arch.cs.ucsb.edu/) - Jonathan Balkind, Timothy Sherwood
 - Bionic Vision - [https://bionicvisionlab.org/](https://bionicvisionlab.org/) - Michael Beyeler
+- Center for Cybersecurity - [http://secindustry.cs.ucsb.edu/](http://secindustry.cs.ucsb.edu/) - Giovanni Vigna
+- Center for Geometric Computing - [https://cgc.cs.ucsb.edu/](https://cgc.cs.ucsb.edu/) - Subhash Suri
+- Center for Responsible Machine Learning - [https://ml.ucsb.edu/](https://ml.ucsb.edu/) - William Wang
 - Computational Applied Science Laboratory - Frederic G. Gibou
 - Computational Science & Engineering Lab (CSE) - [https://cse.cs.ucsb.edu/](https://cse.cs.ucsb.edu/) - Linda Petzold
 - Computer Science Theory Lab - Wim van Dam, Daniel Lokshtanov, Subhash Suri, Eric Vigoda
@@ -13,6 +16,7 @@ Attention: Work In Progress. If you don't see your lab here, create a PR and add
 - Four Eyes Lab - [https://ilab.cs.ucsb.edu/](https://ilab.cs.ucsb.edu/) - Lingqi Yan, Tobias Höllerer
 - UCSB GameLab - [https://www.cdgr.ucsb.edu/database/organization/1927](https://www.cdgr.ucsb.edu/database/organization/1927) - Richert Wang
 - Human-AI Experience (HAX) Lab - [https://sites.cs.ucsb.edu/~sra/](https://sites.cs.ucsb.edu/~sra/) - Misha Sra
+- Information Network Academic Research Center - [http://infonet.ucsb.edu/](http://infonet.ucsb.edu/) - Ambuj K. Singh, Xifeng Yan
 - MOMENTLab - [https://moment.cs.ucsb.edu/](https://moment.cs.ucsb.edu/) - Elizabeth M. Belding
 - Natural Language Processing Group - [http://nlp.cs.ucsb.edu/](http://nlp.cs.ucsb.edu/) - William Wang
 - Programming Languages (PL) Lab - [https://hardekbc.github.io/](https://hardekbc.github.io/) - Ben Hardekopf
