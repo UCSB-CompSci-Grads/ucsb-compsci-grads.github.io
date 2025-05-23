@@ -6,7 +6,7 @@ Attention: Work In Progress. If you don't see your lab here, create a PR and add
 - Bionic Vision - [https://bionicvisionlab.org/](https://bionicvisionlab.org/) - Michael Beyeler
 - Computational Applied Science Laboratory - Frederic G. Gibou
 - Computational Science & Engineering Lab (CSE) - [https://cse.cs.ucsb.edu/](https://cse.cs.ucsb.edu/) - Linda Petzold
-- Computer Science Theory Lab - Wim van Dim, Daniel Lokshtanov, Subhash Suri, Eric Vigoda
+- Computer Science Theory Lab - Wim van Dam, Daniel Lokshtanov, Subhash Suri, Eric Vigoda
 - Distributed Systems Lab (DSL) - Divyakant Agrawal, Amr El Abbadi
 - Dynamic Networks: Analysis and Modeling (DYNAMO) Lab - [https://dynamo.cs.ucsb.edu/](https://dynamo.cs.ucsb.edu/) - Ambuj K. Singh
 - Foundations of Financial Technology (fftech) Lab - [https://fiftech.cs.ucsb.edu/](https://fiftech.cs.ucsb.edu/) - Dahlia Malkhi
