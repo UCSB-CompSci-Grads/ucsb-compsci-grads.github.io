@@ -12,6 +12,7 @@ Attention: Work In Progress. If you don't see your lab here, create a PR and add
 - Computer Science Theory Lab - Wim van Dam, Daniel Lokshtanov, Subhash Suri, Eric Vigoda
 - Distributed Systems Lab (DSL) - Divyakant Agrawal, Amr El Abbadi
 - Dynamic Networks: Analysis and Modeling (DYNAMO) Lab - [https://dynamo.cs.ucsb.edu/](https://dynamo.cs.ucsb.edu/) - Ambuj K. Singh
+- Embedded Ethics Lab - Maryam Majedi
 - Foundations of Financial Technology (fftech) Lab - [https://fiftech.cs.ucsb.edu/](https://fiftech.cs.ucsb.edu/) - Dahlia Malkhi
 - Four Eyes Lab - [https://ilab.cs.ucsb.edu/](https://ilab.cs.ucsb.edu/) - Lingqi Yan, Tobias Höllerer
 - UCSB GameLab - [https://www.cdgr.ucsb.edu/database/organization/1927](https://www.cdgr.ucsb.edu/database/organization/1927) - Richert Wang
