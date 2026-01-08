@@ -1,9 +1,11 @@
 # Remote access to the UCSB computing labs (and some SSH tricks)
 
+**Note: Unless otherwise denoted, all commands are the same for Windows, Linux, and MacOS.**
+
 ## First time setup
 
 - Create a College of Engineering (CoE) account at this link: [https://eci.ucsb.edu/account-creation-links](https://eci.ucsb.edu/account-creation-links)
-- If you have any issues with your account or if you forget your password, go back to the link above. 
+- If you have any issues with your account or if you forget your password, go back to the link above.
 
 ## Logging in thorough SSH
 
@@ -44,3 +46,19 @@ IdentityFile <path to your private key>
 3. Save the file.
 
 4. Test it by running `ssh <nickname>` on the command line. You should now be connected to CSIL.
+
+## Connecting to CSIL using VS Code
+
+Microsoft has a tutorial for remote development [here](https://code.visualstudio.com/docs/remote/ssh). I will also summarize here the key points:
+
+1. Install the **Remote-SSH** extension in VS Code.
+2. Open the command palette (**F1** or **CTRL+Shift+P**) and select **Remote-SSH: Connect To Host...**
+3. Use the same ssh command as above (`ssh <nickname>` or `ssh <COE username>@csil.cs.ucsb.edu`)
+
+## Help! My CSIL userspace is running out of space when I use VS Code!
+
+**Warning: Double check your paths when using these commands!**
+
+This is a known issue with VS Code. To fix this, navigate to your home folder on CSIL (`cd ~`) and run `ls -a`. *If* you see `.vscode-server`, run `rm -rf ~/.vscode-server`. **Ensure that the path is correct before running! `rm -rf` forces (`-f`) removal of all files in that path recursively (`-r`)! All files within this folder will be permanently deleted!**
+
+Next time you connect to CSIL with VS Code, it will reinitialize the `.vscode-server` folder, but it should be significantly smaller this time.
